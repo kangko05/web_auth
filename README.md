@@ -9,3 +9,4 @@ yarn ./basic.js
 ```
 
 2. go to localhost:3000 in the browser
+3. default username = user, password = pass
